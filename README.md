@@ -1,2 +1,2 @@
-# self-designed-game-3
-game made
+# p5.play-boilerplate
+Boiler plate for p5.play
